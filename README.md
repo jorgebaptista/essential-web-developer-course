@@ -7,13 +7,13 @@ The coursework is divided into sections based on the [course structure](https://
 ## Sections
 
 * [HTML](https://jorgebaptista.github.io/essential-web-developer-course/sections/html/) <sub><sup>([Source Files](sections/html))</sup></sub>
-* [CSS](sections/css)
-* [Deep Dive: Build A Blog](sections/blog)
-* [The Ruby Language](sections/ruby)
-* [Build a Real Startup](sections/startup)
-* [Forms, Databases, and Sending Emails](sections/forms)
-* [User Memberships and Accepting Subscription Payments](sections/membership_subscriptions)
-* [User Profiles and Relational Databases](sections/user_profiles)
+* CSS
+* Deep Dive: Build A Blog
+* The Ruby Language
+* Build a Real Startup
+* Forms, Databases, and Sending Emails
+* User Memberships and Accepting Subscription Payments
+* User Profiles and Relational Databases
 
 ## License
 
