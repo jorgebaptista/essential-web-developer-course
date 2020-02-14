@@ -6,7 +6,7 @@ The coursework is divided into sections based on the [course structure](https://
 
 ## Sections
 
-* [HTML](sections/html)
+* [HTML](https://jorgebaptista.github.io/essential-web-developer-course/sections/html/) <sub><sup>([Source Files](sections/html))</sup></sub>
 * [CSS](sections/css)
 * [Deep Dive: Build A Blog](sections/blog)
 * [The Ruby Language](sections/ruby)
