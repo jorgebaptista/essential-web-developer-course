@@ -21,4 +21,4 @@ There is no license set for this repository because most content and material is
 
 With the exception of the following materials and resources:
 
-* [Image of Sir Tim Berners Lee](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/330px-Sir_Tim_Berners-Lee_%28cropped%29.jpg) take from this [page](https://en.wikipedia.org/wiki/Tim_Berners-Lee) of [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).
+* [Image of Sir Tim Berners Lee](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/330px-Sir_Tim_Berners-Lee_%28cropped%29.jpg) taken from this [page](https://en.wikipedia.org/wiki/Tim_Berners-Lee) of [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).
