@@ -1,6 +1,6 @@
 # Course Work for The Essential Web Developer Course
 
-This repository serves as a archive for my coursework while taking the [Essential Web Developer Course by Robeen Dey](https://upskillcourses.com/courses/essential-web-developer-course)
+This repository serves as a archive for my coursework while taking the [Essential Web Developer Course by Robeen Dey](https://upskillcourses.com/courses/essential-web-developer-course).
 
 ## License
 
