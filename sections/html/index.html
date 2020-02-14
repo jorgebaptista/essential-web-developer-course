@@ -1,33 +1,96 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>HTML Page</title>
-    </head>
-    <body>
-        <h1>This is a large heading.</h1>
 
-        <h2>This is a h2</h2>
+<head>
+    <title>HTML Page</title>
+</head>
 
-        <h6>This is a h6</h6>
+<body>
+    <!--This is a comment-->
+    <header>
+        logo
+    </header>
+    <section>
 
-        <p>This is a paragraph.</p>
+    </section>
+    <div>
+        <div>
+            <h1>This is a large <span style="color: brown;">heading</span>.</h1>
 
-        <br>
+            <h2>This is a h2</h2>
+        </div>
 
-        <p>Lorem &nbsp;&nbsp;&nbsp;&amp; & ipsum dolor sit amet,<br> consectetur adipisicing elit. Quidem tempore quisquam non dolorum iste laboriosam pariatur eius, in omnis porro aliquid id ea molestias temporibus mollitia ut ab magnam velit!</p>
+        <div>
+            <h6>This is a h6</h6>
 
-        <ol>
-            <li>Bananas</li>
-            <li>Apples</li>
-            <li>
-                <ul>
-                    <li>Carrots</li>
-                    <li>Peppers</li>
-                </ul>
-            </li>
-        </ol>
+            <p>This is a paragraph.</p>
+        </div> <!--  END second child div -->
+    </div> <!-- END parent div -->
 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/330px-Sir_Tim_Berners-Lee_%28cropped%29.jpg" alt="Tim Berners Lee">
+    <p>Lorem &nbsp;&nbsp;&nbsp;&amp; & ipsum dolor sit amet,<br> consectetur adipisicing elit. Quidem tempore quisquam
+        non dolorum iste laboriosam pariatur eius, in omnis porro aliquid id ea molestias temporibus mollitia ut ab
+        magnam velit!</p>
 
-    </body>
+    <ol>
+        <li>Bananas</li>
+        <li>Apples</li>
+        <li>
+            <ul>
+                <li>Carrots</li>
+                <li>Peppers</li>
+            </ul>
+        </li>
+    </ol>
+
+    <a href="sub_pages/page_2.html" target="_blank">Link</a>
+
+    <form action="https://website.com/processing" method="POST">
+        <div>
+            <label for="first_name">First Name</label>
+            <input name="first_name" type="text">
+        </div>
+
+        <div>
+            <label for="password">Password</label>
+            <input name="password" type="password">
+        </div>
+
+        <input type="submit"> <br>
+        <button>Log in</button> <br>
+        <input type="checkbox">
+        <input type="checkbox">
+        <input type="radio">
+        <select>
+            <option>2017</option>
+            <option>2018</option>
+            <option>2019</option>
+        </select>
+    </form>
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Phone Number</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+            <td>John Doe</td>
+            <td>555-555-555</td>
+            <td>email@example.com</td>
+        </tr>
+        <tr>
+            <td>Jane Smith</td>
+            <td>444-444-444</td>
+            <td>jane@example.com</td>
+        </tr>
+    </table>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/330px-Sir_Tim_Berners-Lee_%28cropped%29.jpg"
+        alt="Tim Berners Lee">
+
+    <footer>
+        footer
+    </footer>
+</body>
+
 </html>
