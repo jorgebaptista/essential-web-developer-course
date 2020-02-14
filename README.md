@@ -2,7 +2,7 @@
 
 This repository serves as a archive for my coursework while taking the [Essential Web Developer Course by Robeen Dey](https://upskillcourses.com/courses/essential-web-developer-course).
 
-This coursework is divided into sections based on the [Course structure](https://upskillcourses.com/courses/essential-web-developer-course)
+The coursework is divided into sections based on the [course structure](https://upskillcourses.com/courses/essential-web-developer-course)
 
 ## Sections
 
@@ -20,4 +20,5 @@ This coursework is divided into sections based on the [Course structure](https:/
 There is no license set for this repository because most content and material is based on the [course](https://upskillcourses.com/courses/essential-web-developer-course).
 
 With the exception of the following material an resources: 
-?
+
+* 
